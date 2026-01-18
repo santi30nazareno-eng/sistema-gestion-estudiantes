@@ -1,3 +1,4 @@
+# Validación de edad agregada por [Santiago Nazareno Reyes]
 import numpy as np
 
 # ==========================================================
